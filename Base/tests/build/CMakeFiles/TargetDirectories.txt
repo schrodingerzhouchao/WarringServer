@@ -1,0 +1,11 @@
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/edit_cache.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testCmd.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testMessage.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testTcpServer.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testTcpClient.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testRThread.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/rebuild_cache.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testTimer.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testSafeHasp.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testLogger.dir
+/home/zc/cppwork/WarringServer/Base/tests/build/CMakeFiles/testTime.dir

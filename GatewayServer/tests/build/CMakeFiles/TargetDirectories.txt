@@ -1,0 +1,4 @@
+/home/zc/cppwork/WarringServer/GatewayServer/tests/build/CMakeFiles/rebuild_cache.dir
+/home/zc/cppwork/WarringServer/GatewayServer/tests/build/CMakeFiles/edit_cache.dir
+/home/zc/cppwork/WarringServer/GatewayServer/tests/build/CMakeFiles/testGatewayClient.dir
+/home/zc/cppwork/WarringServer/GatewayServer/tests/build/CMakeFiles/testGatewayServer.dir

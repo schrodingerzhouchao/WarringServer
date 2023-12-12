@@ -1,0 +1,5 @@
+[DEBUG][140295347849984][2023-10-27-11:20:29.157483][/home/zc/cppwork/WarringServer/Broker/tests/testManager.cpp:main:24]TEST RSBROKER MANAGER
+[INFO ][140295347849984][2023-10-27-11:20:45.198954][/home/zc/cppwork/WarringServer/Broker/RSBrokerManager.cpp:handlePending:118]consumer1 try to transfer 1698376842174-0 to some sibling
+[INFO ][140295347849984][2023-10-27-11:20:45.198980][/home/zc/cppwork/WarringServer/Broker/RSBrokerManager.cpp:handlePending:124]1698376842174-0 will be transfered to consumer2
+[INFO ][140295347849984][2023-10-27-11:20:52.067524][/home/zc/cppwork/WarringServer/Broker/RSBrokerManager.cpp:handlePending:118]consumer1 try to transfer 1698376849043-0 to some sibling
+[INFO ][140295347849984][2023-10-27-11:20:52.067549][/home/zc/cppwork/WarringServer/Broker/RSBrokerManager.cpp:handlePending:124]1698376849043-0 will be transfered to consumer2

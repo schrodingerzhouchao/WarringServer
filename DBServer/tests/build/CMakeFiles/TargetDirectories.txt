@@ -1,0 +1,5 @@
+/home/zc/cppwork/WarringServer/DBServer/tests/build/CMakeFiles/rebuild_cache.dir
+/home/zc/cppwork/WarringServer/DBServer/tests/build/CMakeFiles/edit_cache.dir
+/home/zc/cppwork/WarringServer/DBServer/tests/build/CMakeFiles/testDBServGateway.dir
+/home/zc/cppwork/WarringServer/DBServer/tests/build/CMakeFiles/testMongodb.dir
+/home/zc/cppwork/WarringServer/DBServer/tests/build/CMakeFiles/testRedis.dir

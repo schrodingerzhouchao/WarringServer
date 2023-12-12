@@ -1,0 +1,37 @@
+[DEBUG][140671237773056][2023-10-27-11:20:37.693500][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:37.693625][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 1 ** MSG_NAME_NONE ** 10 ** zhangsan_1_test:key1 ** zhang_passwd_1_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:37.693922][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376837693-0
+[DEBUG][140671237773056][2023-10-27-11:20:37.813975][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:37.814099][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 2 ** MSG_NAME_NONE ** 10 ** zhangsan_2_test:key1 ** zhang_passwd_4_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:37.814470][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376837813-0
+[DEBUG][140671237773056][2023-10-27-11:20:38.093618][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:38.093694][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 3 ** MSG_NAME_NONE ** 10 ** zhangsan_3_test:key1 ** zhang_passwd_9_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:38.093962][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376838093-0
+[DEBUG][140671237773056][2023-10-27-11:20:40.591494][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:40.591587][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 4 ** MSG_NAME_NONE ** 10 ** zhangsan_4_test:key1 ** zhang_passwd_16_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:40.591916][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376840591-0
+[WARN ][140671262968576][2023-10-27-11:20:34.886843][/home/zc/cppwork/WarringServer/Broker/RSBrokerHelper.h:createGroup:99]BUSYGROUP Consumer Group name already exists
+[DEBUG][140671229380352][2023-10-27-11:20:45.276969][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:70]consumer2 read pending items, id: 1698376842174-0
+[DEBUG][140671229380352][2023-10-27-11:20:45.277358][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:72]consumer2 get previous id 1698376841019-0 of 1698376842174-0
+[DEBUG][140671229380352][2023-10-27-11:20:45.277669][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:83]consumer2 read from test:key1 ****fill-in**** MSG_NAME_NONE ** zhangsan_6_test:key1 ** zhang_passwd_36_test:key1
+[DEBUG][140671229380352][2023-10-27-11:20:45.277918][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:89]consumer2 ****fill-in**** ack 1698376842174-0
+[DEBUG][140671237773056][2023-10-27-11:20:41.019621][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:41.019696][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 5 ** MSG_NAME_NONE ** 10 ** zhangsan_5_test:key1 ** zhang_passwd_25_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:41.019979][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376841019-0
+[DEBUG][140671237773056][2023-10-27-11:20:42.175194][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:42.175240][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 6 ** MSG_NAME_NONE ** 10 ** zhangsan_6_test:key1 ** zhang_passwd_36_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:43.422784][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:43.423018][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 7 ** MSG_NAME_NONE ** 10 ** zhangsan_7_test:key1 ** zhang_passwd_49_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:43.423352][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376843422-0
+[DEBUG][140671237773056][2023-10-27-11:20:45.679056][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:45.679116][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 8 ** MSG_NAME_NONE ** 10 ** zhangsan_8_test:key1 ** zhang_passwd_64_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:45.679269][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376845678-0
+[DEBUG][140671237773056][2023-10-27-11:20:48.559297][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:48.559342][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 9 ** MSG_NAME_NONE ** 10 ** zhangsan_9_test:key1 ** zhang_passwd_81_test:key1
+[DEBUG][140671237773056][2023-10-27-11:20:48.559447][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:54]consumer1 ****normal**** ack 1698376848559-0
+[DEBUG][140671237773056][2023-10-27-11:20:49.043299][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:36]pull size: 1
+[DEBUG][140671237773056][2023-10-27-11:20:49.043346][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:44]consumer1 read from test:key1 ****normal****  ID 10 ** MSG_NAME_NONE ** 10 ** zhangsan_10_test:key1 ** zhang_passwd_100_test:key1
+[DEBUG][140671229380352][2023-10-27-11:20:52.144430][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:70]consumer2 read pending items, id: 1698376849043-0
+[DEBUG][140671229380352][2023-10-27-11:20:52.144602][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:72]consumer2 get previous id 1698376848559-0 of 1698376849043-0
+[DEBUG][140671229380352][2023-10-27-11:20:52.144727][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:83]consumer2 read from test:key1 ****fill-in**** MSG_NAME_NONE ** zhangsan_10_test:key1 ** zhang_passwd_100_test:key1
+[DEBUG][140671229380352][2023-10-27-11:20:52.144858][/home/zc/cppwork/WarringServer/Broker/tests/testConsumer.cpp:consumer:89]consumer2 ****fill-in**** ack 1698376849043-0

@@ -1,0 +1,5 @@
+/home/zc/cppwork/WarringServer/LoginServer/tests/build/CMakeFiles/rebuild_cache.dir
+/home/zc/cppwork/WarringServer/LoginServer/tests/build/CMakeFiles/testFakeDBServ.dir
+/home/zc/cppwork/WarringServer/LoginServer/tests/build/CMakeFiles/testLoginClient.dir
+/home/zc/cppwork/WarringServer/LoginServer/tests/build/CMakeFiles/edit_cache.dir
+/home/zc/cppwork/WarringServer/LoginServer/tests/build/CMakeFiles/testLoginServer.dir

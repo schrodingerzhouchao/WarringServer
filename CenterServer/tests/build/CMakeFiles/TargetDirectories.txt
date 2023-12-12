@@ -1,0 +1,4 @@
+/home/zc/cppwork/WarringServer/CenterServer/tests/build/CMakeFiles/rebuild_cache.dir
+/home/zc/cppwork/WarringServer/CenterServer/tests/build/CMakeFiles/edit_cache.dir
+/home/zc/cppwork/WarringServer/CenterServer/tests/build/CMakeFiles/testService.dir
+/home/zc/cppwork/WarringServer/CenterServer/tests/build/CMakeFiles/testServiceRegistry.dir
